@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Madness Demo
+# Welcome to Madness Demo with Another Edit
 
 {% include figure.html
   class="right"
